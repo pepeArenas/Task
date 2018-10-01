@@ -1,12 +1,12 @@
-package com.skt.task;
+package com.stack.jspdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ManagementApplication {
+public class ManagementAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ManagementApplication.class, args);
+		SpringApplication.run(ManagementAppApplication.class, args);
 	}
 }
